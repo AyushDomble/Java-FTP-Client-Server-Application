@@ -1,5 +1,7 @@
 # 📂 Java Swing FTP Application
 
+[![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java)](https://www.oracle.com/java/)     [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)     [![Stars](https://img.shields.io/github/stars/AyushDomble/Java-FTP-Client-Server-Application?style=social)](https://github.com/AyushDomble/Java-FTP-Client-Server-Application/stargazers)     [![Issues](https://img.shields.io/github/issues/AyushDomble/Java-FTP-Client-Server-Application)](https://github.com/AyushDomble/Java-FTP-Client-Server-Application/issues)     [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)  
+
 A simple yet powerful **File Transfer Protocol (FTP)** application built with **Java Swing** ✨<br>
 It includes two applications:
 
@@ -119,6 +121,12 @@ It includes two applications:
   * `BufferedReader` / `PrintWriter` → Commands
 * 🎨 **GUI** – Built with **Java Swing** + event listeners.
 * 🛡 **Error Handling** – `try-catch` blocks with friendly logs & dialogs.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
 
 ---
 
