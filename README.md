@@ -67,9 +67,13 @@ It includes two applications:
 ---
 
 ## 📸 Screenshots
-- 🖥 Server GUI
+- 🖥 Server GUI<br>
 
-- 👤 Client GUI
+  <img width="577" height="512" alt="Screenshot 2025-09-17 235238" src="https://github.com/user-attachments/assets/616962d1-6b03-4994-9c6d-90eae0f83912" />
+
+- 👤 Client GUI<br>
+
+  <img width="577" height="512" alt="Screenshot 2025-09-17 235311" src="https://github.com/user-attachments/assets/63d68079-24db-498d-9f6c-7bf426d1a87f" />
 
 ---
 
